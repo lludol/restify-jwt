@@ -38,7 +38,7 @@
     "jsonwebtoken": "^5.0.0"
   },
   "devDependencies": {
-    "mocha": "1.x.x",
+    "mocha": "8.x.x",
     "restify": "3.x"
   },
   "peerDependencies": {
